@@ -1,4 +1,4 @@
-# SaveTheJungle
+# SaveTheJungle | OpenGl game
 
 You have to climb from base of ocean to top of sky collect the fruits pass the mysterious world of evil scientist to save the jungle
 
